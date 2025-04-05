@@ -1,0 +1,1 @@
+<h2>This content is displayed between 6 a.m. and 7 p.m.</h2>
